@@ -16,6 +16,6 @@ WBS Data Science Course Trainings
 ## 🛠️ Technologies Used  
 - **Programming**: Phyton 
 - **Libraries**: 
-- **Environment**: Vs Code
+- **Environment**: Colab, Pycharm, Vs Code
 
 ## 📁 Project Structure  
